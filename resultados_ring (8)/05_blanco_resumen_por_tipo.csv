@@ -1,0 +1,4 @@
+tipo_interaccion,significado,pares_detectados,pares_sobre_cutoff,ocupancia_media_pares_detectados,ocupancia_maxima
+VDW,Van der Waals: contactos de proximidad y complementariedad de superficies.,174,46,0.04772065065271756,0.4091816367265469
+HBOND,Puentes de hidrógeno: interacciones entre grupos donadores y aceptores.,99,23,0.03983951289340511,0.5249500998003992
+SALTBRIDGE,Interacciones iónicas/puentes salinos: contactos entre grupos con cargas opuestas.,25,5,0.029860279441117764,0.15169660678642716

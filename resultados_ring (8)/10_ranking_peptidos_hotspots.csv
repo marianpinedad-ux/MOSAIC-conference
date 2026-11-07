@@ -1,0 +1,4 @@
+cadena_peptido,descripcion_peptido,hotspots_contactados,total_hotspots,cobertura_hotspots,pares_con_hotspots,ocupancia_media_hotspots,ocupancia_maxima_hotspots,residuos_hotspot_contactados
+C,IF1,1,1,1.0,3,0.29341317365269465,0.6027944111776448,A:65:_:LYS
+B,IF1,0,1,0.0,0,0.0,0.0,
+D,IF1,0,1,0.0,0,0.0,0.0,

@@ -1,0 +1,2 @@
+cadena,numero_residuo_PDB,codigo_insercion,nombre_residuo,etiqueta_completa,estado
+A,112,,HSD,A:112:_:HSD,Presente en PDB; ausente en las etiquetas de los tres archivos RING
