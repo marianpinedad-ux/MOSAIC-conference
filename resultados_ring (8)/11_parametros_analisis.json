@@ -1,0 +1,41 @@
+{
+  "modo_analisis_principal": "INTERMOLECULAR",
+  "descripcion_analisis_principal": "Intermolecular — A vs D",
+  "cadenas_analisis_principal": [
+    "A",
+    "D"
+  ],
+  "tipos_analisis_principal": [
+    "VDW",
+    "HBOND",
+    "SALTBRIDGE"
+  ],
+  "cadena_blanco": "A",
+  "descripcion_blanco": "OSCP",
+  "cadenas_peptido": [
+    "B",
+    "C",
+    "D"
+  ],
+  "descripciones_cadenas": {
+    "A": "OSCP",
+    "B": "IF1",
+    "C": "IF1",
+    "D": "IF1"
+  },
+  "n_frames": 501,
+  "n_etiquetas_RING": 166,
+  "n_residuos_mapeados_PDB_RING": 166,
+  "residuos_presentes_en_PDB_ausentes_en_RING": [
+    {
+      "cadena": "A",
+      "numero": "112",
+      "codigo_insercion": "",
+      "nombre": "HSD"
+    }
+  ],
+  "cutoff_diversidad": 0.05,
+  "definicion_ocupancia_total": "Fracción de frames en los que aparece al menos uno de los tipos de interacción para un par; cada frame-par se cuenta una sola vez.",
+  "definicion_diversidad": "Cantidad de tipos de interacción con ocupancia > cutoff.",
+  "advertencia": "La ocupancia describe persistencia temporal y no equivale por sí sola a afinidad, energía libre o importancia funcional."
+}
